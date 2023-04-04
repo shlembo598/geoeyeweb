@@ -68535,7 +68535,7 @@ $0(){},
 $S:4}
 A.Fx.prototype={
 L(a){var s=null,r=A.aO(a).p3,q=A.fv(r.a),p=A.fv(r.b),o=A.fv(r.c),n=A.fv(r.e),m=A.fv(r.f),l=A.fv(r.r),k=A.fv(r.w),j=A.fv(r.x),i=A.fv(r.y),h=A.fv(r.z),g=A.fv(r.Q)
-return new A.uZ(new A.Ew(s),"Responsive App",A.alx(s,B.c5,A.ah1(s,s,s,i,h,A.fv(r.as),g,s,s,s,q,p,o,n,m,l,s,s,s,s,s,s,A.fv(r.ax),k,j,s,s,s),s),!1,s)}}
+return new A.uZ(new A.Ew(s),"Geoeye",A.alx(s,B.c5,A.ah1(s,s,s,i,h,A.fv(r.as),g,s,s,s,q,p,o,n,m,l,s,s,s,s,s,s,A.fv(r.ax),k,j,s,s,s),s),!1,s)}}
 A.Fn.prototype={
 L(a){var s,r=null,q="assets/images/phone.png",p=t.w,o=a.P(p).f.a,n=!(a.P(p).f.a.a<650)?40:0,m=!(a.P(p).f.a.a<650)?B.aC:B.hH,l=!(a.P(p).f.a.a<650)?B.fH:B.ba,k=t.Ma,j=A.a([],k)
 if(a.P(p).f.a.a<650)j.push(A.agj(q,o.b*0.3,r))
